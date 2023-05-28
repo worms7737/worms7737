@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=wave&text=worms7737!)
+![header](https://capsule-render.vercel.app/api?type=wave&text=Jegu!)
 
 </div>
 
