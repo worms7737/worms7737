@@ -17,15 +17,42 @@ Here are some ideas to get you started:
 <div align="center">
   
 ![header](https://capsule-render.vercel.app/api?type=wave&text=Jegu!)
-
+  
+<!--
+ /--------For my ability and social network service id------------------------
+-->
+  
 </div>
 <div align="center">
+<h3 align="center"><b>💌 Social 💌 </b></h3>
+<br>
 <a href="https://www.instagram.com/j._.gu/">
  <img 
-        src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://www.instagram.com/j._.gu/"
+        src="http://img.shields.io/badge/j._.gu-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/j._.gu/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+  
+<h3 align="center"><b>📚 Languages 📚</b></h3>
+<img 
+      src="https://img.shields.io/badge/c++-00599C?style=flat&logo=cplusplus&logoColor=white"
+      style="height : auto; margin-left : 10px; margin-right : 10px;">
+<img 
+      src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white"
+      style="height : auto; margin-left : 10px; margin-right : 10px;">
+  
+<h3 align="center"><b>✏️ Studying ✏️</b></h3>
+<img 
+      src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=white"
+      style="height : auto; margin-left : 10px; margin-right : 10px;">
+<img 
+      src="https://img.shields.io/badge/Unreal-0E1128?style=flat&logo=unrealengine&logoColor=white"
+      style="height : auto; margin-left : 10px; margin-right : 10px;">
+<img 
+      src="https://img.shields.io/badge/Red hat-EE0000?style=flat&logo=red hat&logoColor=white"
+      style="height : auto; margin-left : 10px; margin-right : 10px;">
+<img 
+      src="https://img.shields.io/badge/Inflearn-green?style=flat&logo=""&logoColor=white"
+      style="height : auto; margin-left : 10px; margin-right : 10px;">
 </div>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=worms7737&show_icons=true&theme=gruvbox_light)
