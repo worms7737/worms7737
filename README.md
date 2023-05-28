@@ -19,7 +19,13 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=wave&text=Jegu!)
 
 </div>
-
-<a href="https://www.instagram.com/j._.gu/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=social&logo=j._.g&logoColor=ffffff"/></a>
+<div align="center">
+<a href="https://www.instagram.com/j._.gu/">
+ <img 
+        src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://www.instagram.com/j._.gu/"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+</div>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=worms7737&show_icons=true&theme=gruvbox_light)
