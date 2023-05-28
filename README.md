@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 
 </div>
 
-<a href="https://www.instagram.com/j._.gu/" target="_blank"><img src="https://img.shields.io/badge/insta-j._.gu-000000?style=social&logo=instagram&logoColor=ffffff"/></a>
+<a href="https://www.instagram.com/j._.gu/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=social&logo=j._.g&logoColor=ffffff"/></a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=worms7737&show_icons=true&theme=gruvbox_light)
