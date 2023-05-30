@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=wave&text=Jegu!)
+![header](https://capsule-render.vercel.app/api?type=waving&fontSize=45&fontColor=c3b091&color=f5f5dc&text=J._.gu!)
   
 <!--
  /--------For my ability and social network service id------------------------
