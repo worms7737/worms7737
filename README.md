@@ -56,3 +56,4 @@ Here are some ideas to get you started:
 </div>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=worms7737&show_icons=true&theme=gruvbox_light)
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=worms7737&exclude_repo=dkssud8150.github.io&layout=compact&theme=buefy" />
