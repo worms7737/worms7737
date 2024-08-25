@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <div align="center">
 <h3 align="center"><b>💌 Social 💌 </b></h3>
 <br>
-<a href="https://www.instagram.com/j._.gu/">
+<a href="https://www.instagram.com/zigzag_zigjegu/">
  <img 
         src="http://img.shields.io/badge/j._.gu-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/j._.gu/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
